@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 ---
-**Hello!** I am an incoming graduate student at the [School of Computer Science and Technology]([https://scit.bjtu.edu.cn/](https://cs.bjtu.edu.cn/)), ​**Beijing Jiaotong University (BJTU)**, ​**commencing research work in October 2024**.  
-**Academic Supervisor:** [Associate Prof. Renshuai Tao](https://rstao-bjtu.github.io/)  
+**Hello!** I am an incoming graduate student at the [School of Computer Science and Technology](https://cs.bjtu.edu.cn/), ​**Beijing Jiaotong University (BJTU)**, ​**commencing research work in October 2024**.  
+**Master Supervisor:** [Associate Prof. Renshuai Tao](https://rstao-bjtu.github.io/)  
 **Undergraduate Institution:** Hebei University  
 
 **Research Interests:**  
