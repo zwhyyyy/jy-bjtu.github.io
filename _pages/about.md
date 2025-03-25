@@ -1,13 +1,4 @@
 ---
-permalink: /
-title: "Personal Introduction"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
----
 **Hello!** I am an incoming graduate student at the [School of Computer Science and Technology](https://scit.bjtu.edu.cn/), ​**Beijing Jiaotong University (BJTU)**.  
 **Academic Supervisor:** [Associate Prof. Renshuai Tao](https://rstao-bjtu.github.io/)  
 **Undergraduate Institution:** Hebei University  
@@ -19,6 +10,7 @@ redirect_from:
 
 ---
 
+---
 ### Quick Links  
 [📩 Contact yangjian1232023@163.com](mailto:yangjian1232023@163.com)  
 
