@@ -20,7 +20,9 @@ redirect_from:
 ---
 
 ### Quick Links  
- [📩 Contact](mailto:yourname@bjtu.edu.cn)  
+[📩 Contact yangjian1232023@163.com](mailto:yangjian1232023@163.com)  
+
 ---
 
-*Let's build safer AI systems together!* 🤖✨
+*Let's build safer AI systems together!* 🤖✨  
+**Feel free to reach out via email for collaborations or discussions.**
